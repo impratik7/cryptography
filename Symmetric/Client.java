@@ -7,7 +7,7 @@ class Client
 	
 	void fromPRN(int n)
 	{
-		/**********************Sum of odd digits and even digits************************/
+		/*****************Sum of odd digits and even digits***********/
 		int cycle=1;
 		int a=n,c=0;
 		int s1=0,s2=0;
